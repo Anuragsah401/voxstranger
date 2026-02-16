@@ -1,0 +1,18 @@
+{
+  "name": "voxstrangers-backend",
+  "version": "1.0.0",
+  "description": "VoxStrangers WebRTC Signaling Server",
+  "main": "server/mockServer.js",
+  "scripts": {
+    "start": "node server/mockServer.js",
+    "dev": "node server/mockServer.js"
+  },
+  "keywords": ["webrtc", "socket.io", "signaling"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.1"
+  }
+}

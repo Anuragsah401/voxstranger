@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoxStrangers - Anonymous Voice Chat",
+  "description": "A sleek, anonymous real-time voice chat application where you can connect with strangers instantly. Features high-quality WebRTC audio, real-time matching, and a modern dark UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
